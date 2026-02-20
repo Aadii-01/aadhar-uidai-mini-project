@@ -16,8 +16,11 @@ This project focuses on a modern government-style interface with landing page, d
 
 ## 🌐 Live Demo
 
-🔗 Deployed Link:
+🔗 Deployed Link (landing page):
 https://aadii-01.github.io/aadhar-uidai-mini-project/
+
+🔗 Deployed Link (other pages):
+https://aadii-01.github.io/aadhar-uidai-mini-project/#/dash
 
 > Note: Uses HashRouter for GitHub Pages compatibility.
 
