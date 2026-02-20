@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aadhar-uidai-mini-project/static/css/main.01f23f22.css",
-    "main.js": "/aadhar-uidai-mini-project/static/js/main.2156e41e.js",
-    "static/js/453.eca5f793.chunk.js": "/aadhar-uidai-mini-project/static/js/453.eca5f793.chunk.js",
-    "index.html": "/aadhar-uidai-mini-project/index.html",
-    "main.01f23f22.css.map": "/aadhar-uidai-mini-project/static/css/main.01f23f22.css.map",
-    "main.2156e41e.js.map": "/aadhar-uidai-mini-project/static/js/main.2156e41e.js.map",
-    "453.eca5f793.chunk.js.map": "/aadhar-uidai-mini-project/static/js/453.eca5f793.chunk.js.map"
+    "main.css": "./static/css/main.01f23f22.css",
+    "main.js": "./static/js/main.195c6081.js",
+    "static/js/453.eca5f793.chunk.js": "./static/js/453.eca5f793.chunk.js",
+    "index.html": "./index.html",
+    "main.01f23f22.css.map": "./static/css/main.01f23f22.css.map",
+    "main.195c6081.js.map": "./static/js/main.195c6081.js.map",
+    "453.eca5f793.chunk.js.map": "./static/js/453.eca5f793.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01f23f22.css",
-    "static/js/main.2156e41e.js"
+    "static/js/main.195c6081.js"
   ]
 }
